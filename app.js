@@ -1,6 +1,6 @@
 
 (() => {
-	const target = new Date('February 23, 2026 14:45:45');
+	const target = new Date('Mart 20, 2026 14:45:45');
 
 	const countdownEl = document.getElementById('countdown');
 	const targetEl = document.getElementById('target');
